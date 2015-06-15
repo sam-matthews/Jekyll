@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Lets test some Markdown!"
+date:   2015-06-08 21:14:00
+categories: Hello
+---
+This is a sample post. The aim here is to write a few lines and test out some markdown syntax. Firstly, lets start with some numbers:
+
+1. One
+2. Two
+3. Three
+4. Four
+5. Five
+
+Now a [link](http://apple.com). 
+
+
