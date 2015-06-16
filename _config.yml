@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
+title:       sammatthews.info
+email:       sammatthewsnz@gmail.com
 author:      Sam Matthews
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://sammatthews.info"
 
 # Google analytics
 google_analytics:
