@@ -423,7 +423,7 @@ h6,
   .h2,
   h2 {
     /*font-size: 1.999rem;*/
-    font-size: 1.5rem;
+    font-size: 1.75rem;
   }
 
 /* End of changes: sammatthews.info */
@@ -480,20 +480,16 @@ h6,
     line-height: 1.5;
   }
 
-  h2 {
-    font-size: 1rem;
+  .h2 {
+    font-size: 2rem;
   }
 
   /* END: sammatthews.info */  
+
   .h1,
   h1 {
     font-size: 4.498rem;
   }
-
-/*  .h2,
-  h2 {
-    font-size: 3.18rem;
-  }*/
 
   .h3,
   h3 {
@@ -509,7 +505,7 @@ h6,
     padding-bottom: .2em;
   }
 
-  .post-link .post-title {
+.post-link .post-title {
     margin-top: .125em;
   }
 
