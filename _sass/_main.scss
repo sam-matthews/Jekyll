@@ -332,6 +332,20 @@ h6,
 }
 
 @media screen and (min-width: 48em) {
+
+/* Changes: sammatthews.info */
+
+  p {
+    font-size: 1.0rem;
+    line-height: 1.5;
+  }
+
+  h2 {
+    font-size: 1rem;
+  }
+
+/* End of changes: sammatthews.info */
+
   .site-header .site-title {
     float: left;
   }
@@ -348,11 +362,11 @@ h6,
     font-size: 3.250rem;
   }
 
-  .h2,
+/*  .h2,
   h2 {
     font-size: 2.298rem;
   }
-
+*/
   .h3,
   h3 {
     font-size: 1.625rem;
@@ -364,20 +378,22 @@ h6,
   }
 
   .p,
-  p,
-  li {
+  /*p,*/
+  /*li*/ 
+  {
     font-size: 1.25rem;
     line-height: 1.8;
   }
 
-  .small {
+
+  /*.small {
     font-size: 1rem;
   }
 
   table {
     font-size: 1.25rem;
   }
-
+*/
   .post-link .post-title {
     margin-top: 0.5em;
   }
@@ -396,6 +412,22 @@ h6,
 }
 
 @media screen and (max-width: 48em) {
+
+/* Changes: sammatthews.info */
+
+  p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+
+  .h2,
+  h2 {
+    /*font-size: 1.999rem;*/
+    font-size: 1.75rem;
+  }
+
+/* End of changes: sammatthews.info */
+
   blockquote {
     margin-left: 1rem;
     margin-right: 0;
@@ -405,11 +437,6 @@ h6,
   .h1,
   h1 {
     font-size: 2.827rem;
-  }
-
-  .h2,
-  h2 {
-    font-size: 1.999rem;
   }
 
   .h3,
@@ -445,14 +472,23 @@ h6,
 }
 
 @media screen and (min-width: 64em) {
+
+  /* Changes: sammatthews.info */
+
+  p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+
+  .h2 {
+    font-size: 2rem;
+  }
+
+  /* END: sammatthews.info */  
+
   .h1,
   h1 {
     font-size: 4.498rem;
-  }
-
-  .h2,
-  h2 {
-    font-size: 3.18rem;
   }
 
   .h3,
@@ -469,7 +505,7 @@ h6,
     padding-bottom: .2em;
   }
 
-  .post-link .post-title {
+.post-link .post-title {
     margin-top: .125em;
   }
 
