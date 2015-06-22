@@ -451,6 +451,10 @@ strong, .bold {
 }
 
 @media screen and (max-width: 48em) {
+  .p-responsive {
+    padding-top: 0;
+  }
+
   .mobile-show,
   .mobile-block {
     display: block;
