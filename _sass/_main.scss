@@ -391,7 +391,7 @@ h6,
   }
 
   .post-link .post-title {
-    margin-top: 0.5em;
+    margin-top: 0.125em;
   }
 
   .posts .post {
@@ -420,6 +420,11 @@ h6,
   h2 {
     /*font-size: 1.999rem;*/
     font-size: 1.75rem;
+  }
+
+  /* .post-meta is the class for the post date. */
+  .meta, .post-meta {
+    font-size: 1.25rem;
   }
 
 /* End of changes: sammatthews.info */
